@@ -1,8 +1,61 @@
+html, body, *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: 62.5%;
+}
+
 body{
-    background-color: darkcyan;
+    background-color: peachpuff;
 }
 
 .head{
     text-align: center;
-    margin-bottom: 50px;
+    font-size: 40px;
+}
+
+.Food1{
+    font-size: 20px;
+    margin: 2rem;
+}
+
+.Food2{
+    font-size: 20px;
+    margin: 2rem;
+}
+
+.Food3{
+    font-size: 20px;
+    margin: 2rem;
+}
+
+.Food4{
+    font-size: 20px;
+    margin: 2rem;
+    
+}
+
+.Food5{
+    font-size: 20px;
+    margin: 2rem;
+}
+
+.Food6{
+    font-size: 20px;
+    margin: 2rem;
+}
+
+.Food7{
+    font-size: 20px;
+    margin: 2rem;
+}
+
+.Food8{
+    font-size: 20px;
+    margin: 2rem;
+}
+
+.Food9{
+    font-size: 20px;
+    margin: 2rem;
 }

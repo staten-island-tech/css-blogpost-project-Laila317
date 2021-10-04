@@ -1,61 +1,63 @@
-html, body, *{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-    font-size: 62.5%;
+body {
+background-image: url(Images/pinkcloud2.jpeg);
+color: bisque;
+font-size: 25px;
+font-family: 'Bonheur Royale', cursive;
 }
 
-body{
-    background-color: peachpuff;
+#TITLE{
+    color: midnightblue;
 }
 
-.head{
-    text-align: center;
-    font-size: 40px;
+.head {
+text-align: center;
+margin-bottom: 60px;
 }
 
-.Food1{
-    font-size: 20px;
-    margin: 2rem;
+
+.Blogpost1 {
+text-align: center;
+border: 7px solid rebeccapurple;
+margin: 20px auto;
+width: 55vw;
+height: 70vh;
+background-color: mediumpurple;
+background-image: url(Images/FRANCE.jpg);
+background-size: 40vw 50vh;
+background-position: center;
+background-repeat: no-repeat;
+padding-bottom: 215px;
 }
 
-.Food2{
-    font-size: 20px;
-    margin: 2rem;
+
+
+.Blogpost2 {
+text-align: center;
+border: 7px solid rebeccapurple;
+margin: 20px auto;
+width: 60vw;
+height: 75vh;
+background-color: mediumpurple;
+background-image: url(Images/NYC.jpg);
+background-size: 40vw 60vh;
+background-position: center;
+background-repeat: no-repeat;
+padding-bottom: 215px;
+
 }
 
-.Food3{
-    font-size: 20px;
-    margin: 2rem;
-}
+.Blogpost3 {
+text-align: center;
+border: 7px solid rebeccapurple;
+margin: 20px auto;
+width: 65vw;
+height: 80vh;
+background-color: mediumpurple;
+background-image: url(Images/London.jpeg);
+background-size: 40vw 70vh;
+background-position: center;
+background-repeat: no-repeat;
+padding-bottom: 215px;
 
-.Food4{
-    font-size: 20px;
-    margin: 2rem;
-    
-}
 
-.Food5{
-    font-size: 20px;
-    margin: 2rem;
-}
-
-.Food6{
-    font-size: 20px;
-    margin: 2rem;
-}
-
-.Food7{
-    font-size: 20px;
-    margin: 2rem;
-}
-
-.Food8{
-    font-size: 20px;
-    margin: 2rem;
-}
-
-.Food9{
-    font-size: 20px;
-    margin: 2rem;
 }

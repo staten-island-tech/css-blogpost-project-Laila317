@@ -26,7 +26,7 @@ background-image: url(Images/FRANCE.jpg);
 background-size: 40vw 50vh;
 background-position: center;
 background-repeat: no-repeat;
-padding-bottom: 215px;
+padding-bottom: 290px;
 }
 
 
@@ -39,10 +39,10 @@ width: 60vw;
 height: 75vh;
 background-color: mediumpurple;
 background-image: url(Images/NYC.jpg);
-background-size: 40vw 60vh;
+background-size: 40vw 50vh;
 background-position: center;
 background-repeat: no-repeat;
-padding-bottom: 215px;
+padding-bottom: 250px;
 
 }
 
@@ -54,10 +54,10 @@ width: 65vw;
 height: 80vh;
 background-color: mediumpurple;
 background-image: url(Images/London.jpeg);
-background-size: 40vw 70vh;
+background-size: 40vw 60vh;
 background-position: center;
 background-repeat: no-repeat;
-padding-bottom: 215px;
+padding-bottom: 230px;
 
 
 }

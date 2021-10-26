@@ -14,50 +14,32 @@ text-align: center;
 margin-bottom: 60px;
 }
 
-
-.Blogpost1 {
-text-align: center;
-border: 7px solid rebeccapurple;
-margin: 20px auto;
-width: 55vw;
-height: 70vh;
+.blogpost{
+    border: 7px solid rebeccapurple;
+margin: 30px auto;
+width: 50vw;
+height: 80vh;
 background-color: mediumpurple;
-background-image: url(Images/FRANCE.jpg);
-background-size: 40vw 50vh;
-background-position: center;
-background-repeat: no-repeat;
-padding-bottom: 215px;
-}
-
-
-
-.Blogpost2 {
-text-align: center;
-border: 7px solid rebeccapurple;
-margin: 20px auto;
-width: 60vw;
-height: 75vh;
-background-color: mediumpurple;
-background-image: url(Images/NYC.jpg);
 background-size: 40vw 60vh;
 background-position: center;
 background-repeat: no-repeat;
-padding-bottom: 215px;
+padding-bottom: 220px;
+text-align: center;
+}
+
+
+.Blogpost1 {
+background-image: url(Images/FRANCE.jpg);
 
 }
 
+.Blogpost2{
+    background-image: url(Images/NYC.jpg);
+}
+
 .Blogpost3 {
-text-align: center;
-border: 7px solid rebeccapurple;
-margin: 20px auto;
-width: 65vw;
-height: 80vh;
-background-color: mediumpurple;
+
 background-image: url(Images/London.jpeg);
-background-size: 40vw 70vh;
-background-position: center;
-background-repeat: no-repeat;
-padding-bottom: 215px;
 
 
 }
